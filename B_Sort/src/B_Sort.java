@@ -9,9 +9,9 @@ public class B_Sort {
 		
 		
 		if(B_Search(arr,234)==1)
-			System.out.println(234 + "존재");
+			System.out.println(234 + "exist");
 		else
-			System.out.println(234 + "없음");
+			System.out.println(234 + "not exist");
 		
 			
 /*
